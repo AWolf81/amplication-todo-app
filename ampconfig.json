@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.1",
+  "appInfo": {
+    "name": "Todo-App",
+    "description": "",
+    "version": "oudvohxf",
+    "id": "ckyrfa6m782533301s60plyd42s",
+    "url": "https://app.amplication.com/ckyrfa6m782533301s60plyd42s",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckyrfa6m782533301s60plyd42s",
+      "authProvider": "Jwt"
+    }
+  }
+}
